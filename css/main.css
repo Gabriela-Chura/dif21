@@ -1,0 +1,32 @@
+/*-------------------->> HEADER <<--------------------*/
+
+header{
+    height: 250px;
+}
+
+.fondo{
+    background: url(../images/4.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0% 61%;
+    height: 1000px;
+    padding-left: 300px;
+}
+
+label {
+    color: sandybrown;
+}
+
+h1, h4 {
+    color: sandybrown;
+    font-family: cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.laboratoria {
+    margin-top: 100px;
+    width: 200px;
+    background-color: rgba(216, 226, 226, 0.19);
+    border-radius: 6px;
+}
+
+
