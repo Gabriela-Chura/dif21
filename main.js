@@ -15,9 +15,7 @@ function calcular() {
 
         if (varnum < 21) {
             varnum21 = 21;
-            res = varnum21 - varnum;
-            
-            salida.innerHTML =  res;
+            res = varnum21 - varnum;                                 salida.innerHTML =  res;
         } else if (varnum == 21) {
             varnum21 = 21;
             res = varnum21 - varnum;
@@ -26,8 +24,51 @@ function calcular() {
         } else {
             varnum21 = 21;
             res = (varnum - 21) * 2;
-           
             salida.innerHTML = res;
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
